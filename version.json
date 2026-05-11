@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "download_url": "https://github.com/Procesos3420WM/polizas-a-excel/releases/download/v1.1.0/Polizas.a.Excel.exe",
-  "sha256": "73DBA655B7424416EADB2DE52358D7E9E4B7360D3AFE8B10C20B63A13CC6A76E",
+  "sha256": "A20301C5AD7C5D0574F9950D0AEE54447B79E67A03EEDA495A5A7C704B6B9A5F",
   "notes": "Primera versión publicada en GitHub con sistema de actualización automática.",
   "mandatory": false
 }
