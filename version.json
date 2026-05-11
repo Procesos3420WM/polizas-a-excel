@@ -1,6 +1,6 @@
 {
   "version": "1.1.1",
-  "download_url": "https://github.com/Procesos3420WM/polizas-a-excel/releases/download/v1.1.0/Polizas.a.Excel.exe",
+  "download_url": "https://github.com/Procesos3420WM/polizas-a-excel/releases/download/v1.1.1/Polizas.a.Excel.exe",
   "sha256": "A20301C5AD7C5D0574F9950D0AEE54447B79E67A03EEDA495A5A7C704B6B9A5F",
   "notes": "Nueva versión con campos actualizados y captura de nombre y código SAB",
   "mandatory": false
