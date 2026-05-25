@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/Procesos3420WM/polizas-a-excel/releases/download/v1.1.1/Polizas.a.Excel.exe",
-  "sha256": "D6E2DBF60396B8E53D78A2F77A97A58AF207AEA68E92F9BB46B953A5D64E4484",
-  "notes": "Nueva versión con campos actualizados y captura de nombre y código SAB",
+  "version": "1.1.2",
+  "download_url": "https://github.com/Procesos3420WM/polizas-a-excel/releases/download/v1.1.2/Polizas.a.Excel.exe",
+  "sha256": "8AF365792C72795D3FD8C3E335900073CFB2100FAF0414C03AC997F06DC8C3A4",
+  "notes": "Corrección de error al confirmar datos en pólizas de venta.",
   "mandatory": false
 }
